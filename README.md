@@ -1,6 +1,8 @@
 # React Native Navigation Example
 This is a simple app example of a navigation implementation with React Native for Android and iOS using [React Navigation](https://reactnavigation.org/)
 
+<img src="/gif/ios-example-2.gif" width="300" />      <img src="/gif/android-example-2.gif" width="300" />
+
 How to use
 ----------------
 Requirements:
