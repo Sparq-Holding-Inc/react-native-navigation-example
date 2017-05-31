@@ -1,8 +1,6 @@
 import React from 'react';
 import { StackNavigator, TabNavigator } from 'react-navigation'
 import FirstScreen from './FirstScreen'
-import FirstTab from './FirstTab'
-import SecondTab from './SecondTab'
 import SecondScreen from './SecondScreen'
 import ThirdScreen from './ThirdScreen'
 
